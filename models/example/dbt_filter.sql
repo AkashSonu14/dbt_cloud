@@ -1,1 +1,1 @@
-select * from sales where fuel='Petrol';
+select * from sales where fuel='Petrol'
