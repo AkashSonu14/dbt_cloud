@@ -41,3 +41,5 @@ models:
       +materialized: view
     transform_1:
       +materialized: view
+    transfrom_2:
+      +materialized: view
