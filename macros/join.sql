@@ -14,6 +14,5 @@
         WHERE maritalstatus = '{{ status }}' 
           AND gender = '{{ gender }}'
     {% endset %}
-
     {{ return(query) }}
 {% endmacro %}
