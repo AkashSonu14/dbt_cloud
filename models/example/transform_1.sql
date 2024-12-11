@@ -1,1 +1,1 @@
-{{ join_macro('M', 'M') }}
+{{join_macro('M', 'M')}}
